@@ -1,4 +1,4 @@
-#DECI-Adventure-Game
+Project Submission Checklist
 
 *I am confident all rubric items have been met and my project will pass as submitted.
 
